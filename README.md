@@ -2,6 +2,7 @@
 E-Library Designing Relational Database 
 
 ---
+![SQL Exercise 4](https://github.com/ziadbwdn/E-LibraryRDB/assets/158177170/13ef45b3-5c01-4f95-9e7a-876ec0c42d5e)
 
 In this current digital age, digital libraries are increasingly popular, especially among the younger generation, due to their ease of access and flexibility. Now, we can get various information, books, and learning materials without needing to visit a physical library. Ever heard of e-book or things alike?
 So, the purpose of this article is to help us understanding how do we design a database system for digital libraries to enhance efficiency and ensure a well-organized structure. It's like Ohara library but in digital version.
